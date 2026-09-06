@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#9F4920" stroke="#1A1613" stroke-width="4"/>
+  <!-- Cup body -->
+  <path d="M26 36 L28 66 C29 74 38 78 50 78 C62 78 71 74 72 66 L74 36 Z" fill="#FAF7F2" stroke="#1A1613" stroke-width="3"/>
+  <!-- Cup handle -->
+  <path d="M73 42 C82 42 84 58 72 60" fill="none" stroke="#FAF7F2" stroke-width="4" stroke-linecap="round"/>
+  <!-- Coffee / Matcha steam & leaf -->
+  <path d="M50 20 C42 26 44 32 50 32 C56 32 58 26 50 20 Z" fill="#FFF78F" stroke="#1A1613" stroke-width="2"/>
+  <path d="M40 24 C34 29 36 34 41 34 C46 34 47 29 40 24 Z" fill="#4A6B4A" stroke="#1A1613" stroke-width="1.5"/>
+</svg>
